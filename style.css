@@ -1,0 +1,14 @@
+.bg-blue{
+	background: blue;
+	height: 150px;
+}
+.background{
+	background: pink;
+	height: 500px;
+	padding: 20px;
+}
+.bgcolor{
+	background: yellowgreen;
+	height: 200px;
+	margin: auto;
+}
